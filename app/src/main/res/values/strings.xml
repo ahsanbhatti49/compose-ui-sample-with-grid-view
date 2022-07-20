@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeGridViewSample</string>
+    <string name="home_app_bar_title">Discovery</string>
+    <string name="error_str">Something went wrong</string>
+</resources>

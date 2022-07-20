@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1657111258833.xml" value="0.2212962962962963" />
+        <entry key="../../../../layout/compose-model-1658259516205.xml" value="0.2212962962962963" />
+        <entry key="../../.gradle/caches/transforms-3/570a0eb53d123eecfdaf519bf2f66350/transformed/material-1.5.0/res/drawable/mtrl_ic_error.xml" value="0.179" />
+        <entry key="app/src/main/res/drawable/ic_baseline_error_24.xml" value="0.1195" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
