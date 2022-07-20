@@ -12,6 +12,9 @@ A sample app that display llist in gridview. The purpose of this project to illu
  7. Repository Pattern
  9. Glide
  10. NetworkBoundResource
+ ## what's next ??? 
+ I will try to add pagination and implement the search feature as well in the future. 
+ 
  
 [![screenshot](https://github.com/ahsanbhatti49/compose-ui-sample-with-grid-view/blob/main/screenshot/screen_shot.jpg "screenshot")](https://github.com/ahsanbhatti49/compose-ui-sample-with-grid-view/blob/main/screenshot/screen_shot.jpg "screenshot")
    
